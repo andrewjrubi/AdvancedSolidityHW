@@ -6,4 +6,4 @@
 
 ### After the PUP12 custom token has been added to your wallet, you can send ETH to the following wallet address to purchase PUP12 tokens: 0xd7541c212ea2DEC49FF3081D49fE452b1a69db75
 
-## Thank you for funding our decentrailized network!
+## Thank you for funding our decentralized network!
